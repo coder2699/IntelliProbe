@@ -51,7 +51,7 @@ def process_text(text):
 
 
 def main():
-    st.title("Query Wizard 🪄")
+    st.title("IntelliProbe 🪄")
 
     confluence_link = st.text_input('Paste the URL of the Confluence Page:')
 
