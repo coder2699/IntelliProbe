@@ -1,5 +1,5 @@
-# Query-Wizard
-<img width="1066" alt="Screenshot 2023-12-07 at 11 35 52 PM" src="https://github.com/coder2699/Query-Wizard/assets/61552810/620ea79c-b58c-4e1d-9fc6-e9824b17ec3f">
+# IntelliProbe
+<img width="860" alt="288850879-620ea79c-b58c-4e1d-9fc6-e9824b17ec3f" src="https://github.com/coder2699/IntelliProbe/assets/61552810/bba19433-2a59-4510-9ce1-e2bcf18519e2">
 
 ### Setup:
 Setup a python environment & create a .env file to add openai api key:
