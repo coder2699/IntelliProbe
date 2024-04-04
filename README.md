@@ -11,7 +11,8 @@ To install requirements:
 ```
 pip install -r requirements.txt
 pip install streamlit-chat
-pip install BeautifulSoup 
+pip install BeautifulSoup4
+pip install tiktoken 
 ```
 To run the application:
 ```
