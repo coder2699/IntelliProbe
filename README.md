@@ -10,6 +10,8 @@ OPENAI_API_KEY = sk-xxxxxxxxxxx
 To install requirements:
 ```
 pip install -r requirements.txt
+pip install streamlit-chat
+pip install BeautifulSoup 
 ```
 To run the application:
 ```
