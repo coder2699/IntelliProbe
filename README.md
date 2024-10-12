@@ -42,6 +42,11 @@ To run the application:
 ```
 streamlit run main.py
 ```
+
+### ©️ License
+***
+This project is licensed under the MIT License - see the <a href="https://github.com/coder2699/IntelliProbe/blob/main/LICENSE">LICENSE file</a> for details.
+
 ### ❤ Show your support
 ***
 </p><p>Give a <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> if this project helped you!</p>
